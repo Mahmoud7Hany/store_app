@@ -1,16 +1,8 @@
-# store_app
+# Stor App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, the following key components were used:
+1. Authentication: Utilized for creating user accounts and managing login functionality.
+2. Firestore: Employed to store user data such as usernames, descriptions, images, and more.
+3. Storage: Used to store files, including images, videos, and documents.
+4. image_picker library: Integrated to select images from the device's gallery or capture new images using the camera and then display them on the screen.
+These are the primary features that were incorporated into the application, among others.
